@@ -83,4 +83,4 @@ Las variables de entorno se definen en el archivo `.env`, que no se sube al repo
 
 ## Licencia
 
-Uso interno del proyecto Bioindus.
+Todos los derechos reservados.
